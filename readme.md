@@ -32,4 +32,47 @@ Jacob and I have choosen a E-commerce website for someone that does twitch break
 
 # Wireframes for multiple standard screen sizes, created using industry standard software
 
+### Desktop view:
+Will have a scroll to get to top and bottom of pages.
+
+### Home page:
+
+![Home page](<Home page.png>)
+
+### Shop pages:
+
+![Shop page](<Screenshot 2023-11-28 154556.png>)
+
+This was one of our orignal ideas for the shop pages but the red is to bright and overpowering. A filter by: NBA, Boxes, Singles, Magic the gathering and Dragon ball Z.
+
+![All Product](<All product-1.png>)
+
+![BasketBall Page](BasketBall.png)
+
+![MTG Page](<Magic the gathering.png>)
+
+![DBZ Page](DBZ.png)
+
+We decided to Change all the Shop page to a graident colour because it is more appealing to the eye.
+
+### Breaks page:
+
+![Breaks Page](breaks.png)
+
+### Artists Page:
+
+![Artist Page](Artistpage.png)
+
+### Contact Us page:
+
+![Contact Page](contact.png)
+
+### Tablet View:
+
+
+
+### Mobile Veiw:
+
+
+
 # Screenshots of your Trello board throughout the duration of the project
