@@ -4,10 +4,11 @@
 - Target audience
 - Tech stack
 
-### Answer:
+### Purpose:
+
 Jacob and I have chosen to build an E-commerce website for a family friend that performs live stream 'box breaks' of basketball cards. For those not up to date on this phenomena, a group of people (30 in this case) chip in money for a spot in the break ($24 AUD in our case). The break is then live streamed and hopefully you may win some expensive shiny new cards that would be more worth more than paying for the spot in the break itself. The client has been involved with all things collectable for over 20 years and has been involved with their streaming breaks for the past 3 years. This has provided the client with a sufficient income stream ever since.
 
--  Purpose of the website: is for the client to be able to expand their brand. They wish to attract new customers to the new e-commerce store, promote the box breaks via the website to attract more participants to the breaks, thereby allowing for more variety and sales through those streaming sites for views, which in return will boost revenue from sites like Facebook, Twitch and Instagram and You-tube. The website will provide additional revenue from providing the client 
+The purpose of the website: is for the client to be able to expand their brand. They wish to attract new customers to the new e-commerce store, promote the box breaks via the website to attract more participants to the breaks, thereby allowing for more variety and sales through those streaming sites for views, which in return will boost revenue from sites like Facebook, Twitch and Instagram and You-tube. The website will provide additional revenue from providing the client 
 
 - Functionality / Features of this site will be:
     - Product listings: The website will display the available products for purchase, including details such as price, product description and images of the product for sale. Customers would be able to browse through products and add items to their cart.
@@ -47,6 +48,46 @@ Jacob and I have chosen to build an E-commerce website for a family friend that 
 # Application Architecture Diagram
 
 # User Stories
+
+### Format:
+ Story #:
+
+    As a [persona], I want to [_] so that [_].
+
+### Customer:
+
+    1. As a customer, I want to browse the available products with images and descriptions so that I can make an informed decision on which items to purchase.
+
+    2. As a customer, I want to add or remove items from my cart before checkout so that I can manage my purchases
+
+    3. As a customer, I want to securely process my payment using Stripe integration because it provides a trusted and reliable payment method.
+
+    4. As a customer I want to create an account with a password so that when I make a purchase, or as a returning customer, I can have my shipping and billing information stored so that I don't have to enter them every time I make a purchase.
+
+    5. As a customer, I want to be able to use a search bar to quickly search for items by genre, saving me time an effort.
+
+    6. As a customer, I want the website to have a clear and intuitive/responsive navigation menus, making it easy for me to find different categories of cards or memorabilia and to explore the website effortlessly.
+
+    7. As a customer with questions or issues, I want access to customer service or support through a contact form  or chatbot, so that I can get assistance with any questions, quieries, theories or thoughts I may have.
+
+    8. As a customer, I want the ability to create a wishlist where I can save the products I am interested in but not ready to purchase yet, allowing me to keep track of my desired items for future refernce.
+
+
+### Client:
+
+    1. As the client, I want an interactive website that is easy to navigate and easy to use, so that I can generate more foot traffic to the website and generate more sales.
+
+    2. As the client who hosts and streams live box breaks, I want the website to display the links to my channels, so that I can increase the foot traffic to these sites, which will help with 'views' and generate extra income and sales.
+
+    3. As the client, I want to have a easy and secure way for customers to make payments, so that I know their details are safe and secure.
+
+    4. As the client, I want to be able to  
+
+
+
+
+
+
 
 # Wireframes for multiple standard screen sizes, created using industry standard software
 
