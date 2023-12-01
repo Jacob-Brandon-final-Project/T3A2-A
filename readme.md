@@ -45,7 +45,19 @@ The purpose of the website: is for the client to be able to expand their brand. 
 
 # Dataflow Diagram
 
+
+
+
+
+
 # Application Architecture Diagram
+
+![Alt text](<app arch diagram.JPG>)
+
+
+
+
+
 
 # User Stories
 
@@ -102,7 +114,7 @@ Will have a scroll to get to top and bottom of pages.
 
 ![Shop page](<Screenshot 2023-11-28 154556.png>)
 
-This was one of our orignal ideas for the shop pages but the red is to bright and overpowering. A filter by: NBA, Boxes, Singles, Magic the gathering and Dragon ball Z.
+This was one of our original ideas for the shop pages but the red is to bright and overpowering. A filter by: NBA, Boxes, Singles, Magic the gathering and Dragon ball Z.
 
 ![All Product](<All product-1.png>)
 
@@ -112,7 +124,7 @@ This was one of our orignal ideas for the shop pages but the red is to bright an
 
 ![DBZ Page](DBZ.png)
 
-We decided to Change all the Shop page to a graident colour because it is more appealing to the eye.
+We decided to Change all the Shop page to a gradient colour because it is more appealing to the eye.
 
 ### Breaks page:
 
@@ -130,7 +142,7 @@ We decided to Change all the Shop page to a graident colour because it is more a
 
 
 
-### Mobile Veiw:
+### Mobile View:
 
 
 
