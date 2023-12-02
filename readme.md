@@ -79,11 +79,6 @@ The purpose of the website: is for the client to be able to expand their brand. 
 
 ![Alt text](<app arch diagram.JPG>)
 
-
-
-
-
-
 # User Stories
 
 ### Format:
@@ -183,16 +178,22 @@ We decided to Change all the Shop page to a gradient colour because it is more a
 
 ![Tablet view](Tablet.png)
 
-### Mobile View:
-
-
-
 # Screenshots of your Trello board throughout the duration of the project
 
-![Trello](Trello1-1.png)
+![Alt text](Trello1.png)
 
-![Task](TrelTask.png)
+![Alt text](TrelTask-1.png)
 
+![Search bar task](Search.png)
 
+![Shop cart task](ShopCart.png)
 
+![Nav bar task](User-FriendlyNav.png)
 
+![Prod List task](Prodlist.png)
+
+![Payment task](PayProcess.png)
+
+![Cust service](CustService.png)
+
+![Customer account task](CustAcc.png)
