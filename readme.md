@@ -63,8 +63,8 @@ The purpose of the website: is for the client to be able to expand their brand. 
     - Netlify: Is well-suited for hostin static websites and front-end applications, which it offers features like continuous deployment, CDN integrations and easy configuration.
 
     - Heroku: Specialises in hosting and scaling server-side applications. It supports multiple programming languages and frameworks, making it a great tool for hosting the backend of MERN stack applications. It offers features such as: automating scaling, easy deployment and seamless integration with popular development tools.
-    
-     
+
+
 
 
 
@@ -171,12 +171,28 @@ We decided to Change all the Shop page to a gradient colour because it is more a
 
 ![Contact Page](contact.png)
 
+### Log In page:
+
+![Login](Login.png)
+
+### Sign up Page:
+
+![Sign Up](Signup.png)
+
 ### Tablet View:
 
-
+![Tablet view](Tablet.png)
 
 ### Mobile View:
 
 
 
 # Screenshots of your Trello board throughout the duration of the project
+
+![Trello](Trello1-1.png)
+
+![Task](TrelTask.png)
+
+
+
+
