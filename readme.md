@@ -65,13 +65,7 @@ The purpose of the website: is for the client to be able to expand their brand. 
     - Heroku: Specialises in hosting and scaling server-side applications. It supports multiple programming languages and frameworks, making it a great tool for hosting the backend of MERN stack applications. It offers features such as: automating scaling, easy deployment and seamless integration with popular development tools.
 
 
-
-
-
 # Dataflow Diagram
-
-
-
 
 
 
@@ -122,11 +116,6 @@ The purpose of the website: is for the client to be able to expand their brand. 
     3. As a collector, I want to have access to reliale and efficient shipping services that ensures safe delivery of fragile and valuable collectibles.
 
     4. As a collector, I want to be able to connect with other collectors through forums or communities provided by the e-commerce site, where i can discuss and trade collectibles.
-
-
-
-
-
 
 
 # Wireframes for multiple standard screen sizes, created using industry standard software
@@ -197,3 +186,7 @@ We decided to Change all the Shop page to a gradient colour because it is more a
 ![Cust service](CustService.png)
 
 ![Customer account task](CustAcc.png)
+
+![Wishlist](Wishlist.png)
+
+![Ratings/reviews](ProdRate.png)
