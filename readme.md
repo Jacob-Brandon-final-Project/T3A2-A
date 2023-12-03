@@ -84,40 +84,40 @@ The purpose of the website: is for the client to be able to expand their brand. 
 
 ### Customer:
 
-    1. As a customer, I want to add or remove items from my cart before checkout so that I can manage my purchases
+- As a customer, I want to add or remove items from my cart before checkout so that I can manage my purchases
 
-    2. As a customer, I want to securely process my payment using Stripe integration because it provides a trusted and reliable payment method.
+- As a customer, I want to securely process my payment using Stripe integration because it provides a trusted and reliable payment method.
 
-    3. As a customer I want to create an account with a password so that when I make a purchase, or as a returning customer, I can have my shipping and billing information stored so that I don't have to enter them every time I make a purchase.
+- As a customer I want to create an account with a password so that when I make a purchase, or as a returning customer, I can have my shipping and billing information stored so that I don't have to enter them every time I make a purchase.
 
-    4. As a customer, I want to be able to use a search bar to quickly search for items by genre, saving me time an effort.
+- As a customer, I want to be able to use a search bar to quickly search for items by genre, saving me time an effort.
 
-    5. As a customer, I want the website to have a clear and intuitive/responsive navigation menus, making it easy for me to find different categories of cards or memorabilia and to explore the website effortlessly.
+- As a customer, I want the website to have a clear and intuitive/responsive navigation menus, making it easy for me to find different categories of cards or memorabilia and to explore the website effortlessly.
 
-    6. As a customer with questions or issues, I want access to customer service or support through a contact form  or chatbot, so that I can get assistance with any questions, quieries, theories or thoughts I may have.
+- As a customer with questions or issues, I want access to customer service or support through a contact form  or chatbot, so that I can get assistance with any questions, quieries, theories or thoughts I may have.
 
-    7. As a customer, I want the ability to create a wishlist where I can save the products I am interested in but not ready to purchase yet, allowing me to keep track of my desired items for future refernce.
+- As a customer, I want the ability to create a wishlist where I can save the products I am interested in but not ready to purchase yet, allowing me to keep track of my desired items for future refernce.
 
 
 ### Client:
 
-    1. As the client, I want an interactive website that is easy to navigate and easy to use, so that I can generate more foot traffic to the website and generate more sales.
+- As the client, I want an interactive website that is easy to navigate and easy to use, so that I can generate more foot traffic to the website and generate more sales.
 
-    2. As the client who hosts and streams live box breaks, I want the website to display the links to my channels, so that I can increase the foot traffic to these sites, which will help with 'views' and generate extra income and sales.
+- As the client who hosts and streams live box breaks, I want the website to display the links to my channels, so that I can increase the foot traffic to these sites, which will help with 'views' and generate extra income and sales.
 
-    3. As the client, I want to have a easy and secure way for customers to make payments, so that I know their details are safe and secure.
+- As the client, I want to have a easy and secure way for customers to make payments, so that I know their details are safe and secure.
 
-    4. As the client, I want customers to be able to get into contact with me, if there is and questions or concerns that I can help them with, so that by ensuring great customer service which will then turn into increase sales and repeat customer service. 
+- As the client, I want customers to be able to get into contact with me, if there is and questions or concerns that I can help them with, so that by ensuring great customer service which will then turn into increase sales and repeat customer service. 
 
 ### Collector
 
-    1. As a collector, I want to browse the available products with images and descriptions so that I can make an informed decision on which items to purchase.
+- As a collector, I want to browse the available products with images and descriptions so that I can make an informed decision on which items to purchase.
 
-    2. As a collector, I want to be able to search and browse for collectible items, such as rare cards, and vintage toys and memorabilia.
+- As a collector, I want to be able to search and browse for collectible items, such as rare cards, and vintage toys and memorabilia.
 
-    3. As a collector, I want to have access to reliale and efficient shipping services that ensures safe delivery of fragile and valuable collectibles.
+- As a collector, I want to have access to reliale and efficient shipping services that ensures safe delivery of fragile and valuable collectibles.
 
-    4. As a collector, I want to be able to connect with other collectors through forums or communities provided by the e-commerce site, where i can discuss and trade collectibles.
+- As a collector, I want to be able to connect with other collectors through forums or communities provided by the e-commerce site, where i can discuss and trade collectibles.
 
 
 # Wireframes for multiple standard screen sizes, created using industry standard software
