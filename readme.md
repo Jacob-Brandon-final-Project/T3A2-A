@@ -6,7 +6,7 @@
 
 ### Purpose:
 
-Jacob and I have chosen to build an E-commerce website for a family friend that performs live stream 'box breaks' of basketball cards. For those not up to date on this phenomena, a group of people (30 in this case) chip in money for a spot in the break ($24 AUD in our case). The break is then live streamed and hopefully you may win some expensive shiny new cards that would be more worth more than paying for the spot in the break itself. The client has been involved with all things collectable for over 20 years and has been involved with their streaming breaks for the past 3 years. This has provided the client with a sufficient income stream ever since.
+Jacob and I have chosen to build an E-commerce website for a family friend who performs live stream 'box breaks' of basketball cards. For those not up to date on this phenomena, a group of people (30 in this case) chip in money for a spot in the break ($24 AUD in our case). The break is then live streamed and hopefully you may win some expensive shiny new cards that would be more worth more than paying for the spot in the break itself. The client has been involved with all things collectable for over 20 years and has been involved with their streaming breaks for the past 3 years. This has provided the client with a sufficient income stream ever since.
 
 The purpose of the website: is for the client to be able to expand their brand. They wish to attract new customers to the new e-commerce store, promote the box breaks via the website to attract more participants to the breaks, thereby allowing for more variety and sales through those streaming sites for views, which in return will boost revenue from sites like Facebook, Twitch and Instagram and You-tube. The website will provide additional revenue from providing the client 
 
@@ -60,12 +60,14 @@ The purpose of the website: is for the client to be able to expand their brand. 
 
     - Node.js: Is a JavaScript runtime environment that allows developers (us) to run JavaScript on the server-side. It provides a set of built-in modules for handling Input/Output operations, networking and file system access.
 
-    - Netlify: Is well-suited for hostin static websites and front-end applications, which it offers features like continuous deployment, CDN integrations and easy configuration.
+    - Netlify: Is well-suited for hosting static websites and front-end applications, which it offers features like continuous deployment, CDN integrations and easy configuration.
 
     - Heroku: Specialises in hosting and scaling server-side applications. It supports multiple programming languages and frameworks, making it a great tool for hosting the backend of MERN stack applications. It offers features such as: automating scaling, easy deployment and seamless integration with popular development tools.
 
 
 # Dataflow Diagram
+
+![Alt text](<dataflow diagram for mern ecommerce website.JPG>)
 
 
 
